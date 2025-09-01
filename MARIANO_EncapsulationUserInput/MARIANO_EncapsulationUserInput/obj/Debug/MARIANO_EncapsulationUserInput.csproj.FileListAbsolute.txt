@@ -1,0 +1,7 @@
+C:\Users\ACT-STUDENT\Documents\EXER4\MARIANO_EncapsulationUserInput\MARIANO_EncapsulationUserInput\bin\Debug\MARIANO_EncapsulationUserInput.exe.config
+C:\Users\ACT-STUDENT\Documents\EXER4\MARIANO_EncapsulationUserInput\MARIANO_EncapsulationUserInput\bin\Debug\MARIANO_EncapsulationUserInput.exe
+C:\Users\ACT-STUDENT\Documents\EXER4\MARIANO_EncapsulationUserInput\MARIANO_EncapsulationUserInput\bin\Debug\MARIANO_EncapsulationUserInput.pdb
+C:\Users\ACT-STUDENT\Documents\EXER4\MARIANO_EncapsulationUserInput\MARIANO_EncapsulationUserInput\obj\Debug\MARIANO_EncapsulationUserInput.csproj.AssemblyReference.cache
+C:\Users\ACT-STUDENT\Documents\EXER4\MARIANO_EncapsulationUserInput\MARIANO_EncapsulationUserInput\obj\Debug\MARIANO_EncapsulationUserInput.csproj.CoreCompileInputs.cache
+C:\Users\ACT-STUDENT\Documents\EXER4\MARIANO_EncapsulationUserInput\MARIANO_EncapsulationUserInput\obj\Debug\MARIANO_EncapsulationUserInput.exe
+C:\Users\ACT-STUDENT\Documents\EXER4\MARIANO_EncapsulationUserInput\MARIANO_EncapsulationUserInput\obj\Debug\MARIANO_EncapsulationUserInput.pdb
