@@ -1,0 +1,7 @@
+C:\Users\ACT-STUDENT\Documents\OPACT6\MARIANO_SimpleInheritance\MARIANO_SimpleInheritance\bin\Debug\MARIANO_SimpleInheritance.exe.config
+C:\Users\ACT-STUDENT\Documents\OPACT6\MARIANO_SimpleInheritance\MARIANO_SimpleInheritance\bin\Debug\MARIANO_SimpleInheritance.exe
+C:\Users\ACT-STUDENT\Documents\OPACT6\MARIANO_SimpleInheritance\MARIANO_SimpleInheritance\bin\Debug\MARIANO_SimpleInheritance.pdb
+C:\Users\ACT-STUDENT\Documents\OPACT6\MARIANO_SimpleInheritance\MARIANO_SimpleInheritance\obj\Debug\MARIANO_SimpleInheritance.csproj.AssemblyReference.cache
+C:\Users\ACT-STUDENT\Documents\OPACT6\MARIANO_SimpleInheritance\MARIANO_SimpleInheritance\obj\Debug\MARIANO_SimpleInheritance.csproj.CoreCompileInputs.cache
+C:\Users\ACT-STUDENT\Documents\OPACT6\MARIANO_SimpleInheritance\MARIANO_SimpleInheritance\obj\Debug\MARIANO_SimpleInheritance.exe
+C:\Users\ACT-STUDENT\Documents\OPACT6\MARIANO_SimpleInheritance\MARIANO_SimpleInheritance\obj\Debug\MARIANO_SimpleInheritance.pdb
