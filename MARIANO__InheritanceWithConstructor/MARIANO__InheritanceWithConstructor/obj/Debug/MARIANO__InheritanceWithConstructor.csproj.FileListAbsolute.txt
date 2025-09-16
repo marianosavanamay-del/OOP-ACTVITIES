@@ -1,0 +1,7 @@
+C:\Users\ACT-STUDENT\Desktop\act 7\MARIANO__InheritanceWithConstructor\MARIANO__InheritanceWithConstructor\bin\Debug\MARIANO__InheritanceWithConstructor.exe.config
+C:\Users\ACT-STUDENT\Desktop\act 7\MARIANO__InheritanceWithConstructor\MARIANO__InheritanceWithConstructor\bin\Debug\MARIANO__InheritanceWithConstructor.exe
+C:\Users\ACT-STUDENT\Desktop\act 7\MARIANO__InheritanceWithConstructor\MARIANO__InheritanceWithConstructor\bin\Debug\MARIANO__InheritanceWithConstructor.pdb
+C:\Users\ACT-STUDENT\Desktop\act 7\MARIANO__InheritanceWithConstructor\MARIANO__InheritanceWithConstructor\obj\Debug\MARIANO__InheritanceWithConstructor.csproj.AssemblyReference.cache
+C:\Users\ACT-STUDENT\Desktop\act 7\MARIANO__InheritanceWithConstructor\MARIANO__InheritanceWithConstructor\obj\Debug\MARIANO__InheritanceWithConstructor.csproj.CoreCompileInputs.cache
+C:\Users\ACT-STUDENT\Desktop\act 7\MARIANO__InheritanceWithConstructor\MARIANO__InheritanceWithConstructor\obj\Debug\MARIANO__InheritanceWithConstructor.exe
+C:\Users\ACT-STUDENT\Desktop\act 7\MARIANO__InheritanceWithConstructor\MARIANO__InheritanceWithConstructor\obj\Debug\MARIANO__InheritanceWithConstructor.pdb
