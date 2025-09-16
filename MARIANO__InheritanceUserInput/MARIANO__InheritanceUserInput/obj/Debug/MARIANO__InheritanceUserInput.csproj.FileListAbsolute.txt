@@ -1,0 +1,7 @@
+C:\Users\ACT-STUDENT\Desktop\act 8\MARIANO__InheritanceUserInput\MARIANO__InheritanceUserInput\bin\Debug\MARIANO__InheritanceUserInput.exe.config
+C:\Users\ACT-STUDENT\Desktop\act 8\MARIANO__InheritanceUserInput\MARIANO__InheritanceUserInput\bin\Debug\MARIANO__InheritanceUserInput.exe
+C:\Users\ACT-STUDENT\Desktop\act 8\MARIANO__InheritanceUserInput\MARIANO__InheritanceUserInput\bin\Debug\MARIANO__InheritanceUserInput.pdb
+C:\Users\ACT-STUDENT\Desktop\act 8\MARIANO__InheritanceUserInput\MARIANO__InheritanceUserInput\obj\Debug\MARIANO__InheritanceUserInput.csproj.AssemblyReference.cache
+C:\Users\ACT-STUDENT\Desktop\act 8\MARIANO__InheritanceUserInput\MARIANO__InheritanceUserInput\obj\Debug\MARIANO__InheritanceUserInput.csproj.CoreCompileInputs.cache
+C:\Users\ACT-STUDENT\Desktop\act 8\MARIANO__InheritanceUserInput\MARIANO__InheritanceUserInput\obj\Debug\MARIANO__InheritanceUserInput.exe
+C:\Users\ACT-STUDENT\Desktop\act 8\MARIANO__InheritanceUserInput\MARIANO__InheritanceUserInput\obj\Debug\MARIANO__InheritanceUserInput.pdb
