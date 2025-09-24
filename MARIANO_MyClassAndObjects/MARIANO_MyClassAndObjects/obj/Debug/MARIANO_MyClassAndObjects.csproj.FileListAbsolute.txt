@@ -1,0 +1,7 @@
+C:\Users\ACT-STUDENT\Desktop\exer 2\MARIANO_MyClassAndObjects\MARIANO_MyClassAndObjects\bin\Debug\MARIANO_MyClassAndObjects.exe.config
+C:\Users\ACT-STUDENT\Desktop\exer 2\MARIANO_MyClassAndObjects\MARIANO_MyClassAndObjects\bin\Debug\MARIANO_MyClassAndObjects.exe
+C:\Users\ACT-STUDENT\Desktop\exer 2\MARIANO_MyClassAndObjects\MARIANO_MyClassAndObjects\bin\Debug\MARIANO_MyClassAndObjects.pdb
+C:\Users\ACT-STUDENT\Desktop\exer 2\MARIANO_MyClassAndObjects\MARIANO_MyClassAndObjects\obj\Debug\MARIANO_MyClassAndObjects.csproj.AssemblyReference.cache
+C:\Users\ACT-STUDENT\Desktop\exer 2\MARIANO_MyClassAndObjects\MARIANO_MyClassAndObjects\obj\Debug\MARIANO_MyClassAndObjects.csproj.CoreCompileInputs.cache
+C:\Users\ACT-STUDENT\Desktop\exer 2\MARIANO_MyClassAndObjects\MARIANO_MyClassAndObjects\obj\Debug\MARIANO_MyClassAndObjects.exe
+C:\Users\ACT-STUDENT\Desktop\exer 2\MARIANO_MyClassAndObjects\MARIANO_MyClassAndObjects\obj\Debug\MARIANO_MyClassAndObjects.pdb
