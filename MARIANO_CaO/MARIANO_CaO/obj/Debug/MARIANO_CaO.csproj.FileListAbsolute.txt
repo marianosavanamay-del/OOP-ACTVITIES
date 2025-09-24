@@ -1,0 +1,7 @@
+C:\Users\ACT-STUDENT\Desktop\exer 1\MARIANO_CaO\MARIANO_CaO\obj\Debug\MARIANO_CaO.csproj.AssemblyReference.cache
+C:\Users\ACT-STUDENT\Desktop\exer 1\MARIANO_CaO\MARIANO_CaO\obj\Debug\MARIANO_CaO.csproj.CoreCompileInputs.cache
+C:\Users\ACT-STUDENT\Desktop\exer 1\MARIANO_CaO\MARIANO_CaO\bin\Debug\MARIANO_CaO.exe.config
+C:\Users\ACT-STUDENT\Desktop\exer 1\MARIANO_CaO\MARIANO_CaO\bin\Debug\MARIANO_CaO.exe
+C:\Users\ACT-STUDENT\Desktop\exer 1\MARIANO_CaO\MARIANO_CaO\bin\Debug\MARIANO_CaO.pdb
+C:\Users\ACT-STUDENT\Desktop\exer 1\MARIANO_CaO\MARIANO_CaO\obj\Debug\MARIANO_CaO.exe
+C:\Users\ACT-STUDENT\Desktop\exer 1\MARIANO_CaO\MARIANO_CaO\obj\Debug\MARIANO_CaO.pdb
