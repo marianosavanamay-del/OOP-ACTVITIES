@@ -1,0 +1,7 @@
+C:\Users\ACT-STUDENT\Desktop\new exer 3\MARIANO_COConstructorUserInput\MARIANO_COConstructorUserInput\bin\Debug\MARIANO_COConstructorUserInput.exe.config
+C:\Users\ACT-STUDENT\Desktop\new exer 3\MARIANO_COConstructorUserInput\MARIANO_COConstructorUserInput\bin\Debug\MARIANO_COConstructorUserInput.exe
+C:\Users\ACT-STUDENT\Desktop\new exer 3\MARIANO_COConstructorUserInput\MARIANO_COConstructorUserInput\bin\Debug\MARIANO_COConstructorUserInput.pdb
+C:\Users\ACT-STUDENT\Desktop\new exer 3\MARIANO_COConstructorUserInput\MARIANO_COConstructorUserInput\obj\Debug\MARIANO_COConstructorUserInput.csproj.AssemblyReference.cache
+C:\Users\ACT-STUDENT\Desktop\new exer 3\MARIANO_COConstructorUserInput\MARIANO_COConstructorUserInput\obj\Debug\MARIANO_COConstructorUserInput.csproj.CoreCompileInputs.cache
+C:\Users\ACT-STUDENT\Desktop\new exer 3\MARIANO_COConstructorUserInput\MARIANO_COConstructorUserInput\obj\Debug\MARIANO_COConstructorUserInput.exe
+C:\Users\ACT-STUDENT\Desktop\new exer 3\MARIANO_COConstructorUserInput\MARIANO_COConstructorUserInput\obj\Debug\MARIANO_COConstructorUserInput.pdb
